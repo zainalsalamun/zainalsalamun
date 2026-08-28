@@ -114,53 +114,6 @@ My personal developer portfolio showcasing projects, experiments, and profession
 
 ---
 
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zainalsalamun&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
-    height="180"
-    alt="Zainal's GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainalsalamun&layout=compact&hide_border=true&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=zainalsalamun&hide_border=true"
-    alt="Zainal's GitHub Streak"
-  />
-</p>
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/zainalsalamun/zainalsalamun/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/zainalsalamun/zainalsalamun/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/zainalsalamun/zainalsalamun/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
 ## 🌐 Connect With Me
 
 [![Website](https://img.shields.io/badge/Website-zainalsalamun.web.id-02569B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.zainalsalamun.web.id/)
